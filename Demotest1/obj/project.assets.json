@@ -6700,11 +6700,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\source\\repos\\Demotest1\\Demotest1\\Demotest1.csproj",
+      "projectUniqueName": "C:\\Users\\Home\\source\\repos\\OlamideRepository\\Demotest1\\Demotest1.csproj",
       "projectName": "Demotest1",
-      "projectPath": "C:\\Users\\Home\\source\\repos\\Demotest1\\Demotest1\\Demotest1.csproj",
+      "projectPath": "C:\\Users\\Home\\source\\repos\\OlamideRepository\\Demotest1\\Demotest1.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\source\\repos\\Demotest1\\Demotest1\\obj\\",
+      "outputPath": "C:\\Users\\Home\\source\\repos\\OlamideRepository\\Demotest1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
